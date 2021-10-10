@@ -1,5 +1,6 @@
 # Source Query Cache #
 Original plugin: https://forums.alliedmods.net/showthread.php?t=135543
+
 rewroted by energie4cute:https://forums.alliedmods.net/showpost.php?p=2159684&postcount=41
 
 06-30-14 , 08:55 AM   Re: Metamod Query Cache
