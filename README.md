@@ -1,5 +1,5 @@
-# Source Query Cache #
-only for CentOS7
+# Source Query Cache (only for CentOS7) #
+
 Original plugin: https://forums.alliedmods.net/showthread.php?t=135543
 
 rewroted by energie4cute:https://forums.alliedmods.net/showpost.php?p=2159684&postcount=41
