@@ -1,4 +1,4 @@
-# Source Query Cache (only for CentOS7) #
+# Source Query Cache (only for CentOS7-64Bit) #
 
 Original plugin: https://forums.alliedmods.net/showthread.php?t=135543
 
